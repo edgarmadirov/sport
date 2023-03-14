@@ -1,0 +1,59 @@
+﻿<Page x:Class="SportShop.Pages.ShopingCartPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SportShop.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ShopingCartPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="80"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="10" >
+            <TextBlock Text="Выберите пункт выдачи: " />
+            <ComboBox Width="205" SelectionChanged="ComboPickup_SelectionChanged" HorizontalAlignment="Left" Height="30" FontSize="14" x:Name="ComboPickup" DisplayMemberPath="FullAddress"/>
+        </StackPanel>
+        <TextBlock Text="Корзина" VerticalAlignment="Center" Grid.Row="0" HorizontalAlignment="Center" FontSize="24px"></TextBlock>
+        <DataGrid x:Name="DataGridSC" Grid.Row="1" AutoGenerateColumns="False" RowHeight="100" SelectedCellsChanged ="DataGridSC_SelectedCellsChanged" LoadingRow="DataGridSC_LoadingRow"  IsReadOnly="True" SelectionMode="Single">
+            <DataGrid.Columns >
+                <DataGridTemplateColumn Width="100" Header="Изображение" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Path=GetImage}" Width="100"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Binding="{Binding ProductFullInfo}" Header="Информация о товара" Width="2*"/>
+                <DataGridTextColumn Binding="{Binding Manufacturer.Name}" Header="Производитель" Width="1*"/>
+                <DataGridTemplateColumn Width="auto" Header="Колл-во">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox TextChanged="count_TextChanged" x:Name="countText"  Text="{Binding ProductQuantityInStock}"></TextBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Binding="{Binding ProductDiscountAmount}"   Header="Скидка" Width="auto"/>
+                <DataGridTextColumn Binding="{Binding ProductCostWithDiscount, StringFormat='c', ConverterCulture='ru-RU'}" Header="Стоимость за шт" Width="auto"/>
+                <DataGridTemplateColumn Width="auto" Header="">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="BtnDelete" Content="Удалить" Click="BtnDelete_Click" Margin="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 0 30 0">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock VerticalAlignment="Center" FontSize="20" Text="Итог: "></TextBlock>
+                <TextBlock VerticalAlignment="Center" FontSize="20" x:Name="TotalSum" Text="0 р"></TextBlock>
+            </StackPanel>
+            <Button Content="Оплатить" Click="Order_Click" Width="100" Height="40" Margin="20 10 10 10"></Button>
+        </StackPanel>
+    </Grid>
+</Page>

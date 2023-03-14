@@ -1,0 +1,96 @@
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\MainWindow.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\App.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop_Content.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop_MarkupCompile.cache
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop_MarkupCompile.lref
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\SportShop.exe.config
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\SportShop.exe
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\SportShop.pdb
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\EntityFramework.dll
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\EntityFramework.xml
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\MainWindow.baml
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.g.resources
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.exe
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\AuthWindow.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\AuthWindow.baml
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\Pages\AssortimentsPage.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\Pages\AssortimentsPage.baml
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\Pages\ShopingCartPage.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\Pages\ShopingCartPage.baml
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\Pages\ManageAssortimentsPage.g.cs
+C:\Users\BBB\Desktop\УЧЕБА вонючая\Веледенская\SportShop\SportShop\obj\Debug\Pages\ManageAssortimentsPage.baml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\SportShop.exe.config
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\SportShop.exe
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\SportShop.pdb
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\EntityFramework.dll
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\EntityFramework.xml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\AuthWindow.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\MainWindow.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\Pages\AssortimentsPage.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\Pages\ManageAssortimentsPage.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\Pages\ShopingCartPage.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\App.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop_Content.g.cs
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop_MarkupCompile.cache
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop_MarkupCompile.lref
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\AuthWindow.baml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\MainWindow.baml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\Pages\AssortimentsPage.baml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\Pages\ManageAssortimentsPage.baml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\Pages\ShopingCartPage.baml
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.g.resources
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.exe
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\aynur\Downloads\Telegram Desktop\SportShop\SportShop\obj\Debug\App.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\SportShop.exe.config
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\SportShop.exe
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\SportShop.pdb
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\EntityFramework.dll
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\EntityFramework.xml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\AuthWindow.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\MainWindow.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\AssortimentsPage.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\ManageAssortimentsPage.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\ShopingCartPage.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\App.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop_Content.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop_MarkupCompile.cache
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop_MarkupCompile.lref
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\App.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\AuthWindow.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\MainWindow.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\AssortimentsPage.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\ManageAssortimentsPage.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\ShopingCartPage.baml
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.g.resources
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.csproj.CopyComplete
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.exe
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\SportShop.pdb
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\AddPage.g.cs
+C:\Users\Эдуард\Desktop\SportShop\SportShop\obj\Debug\Pages\AddPage.baml

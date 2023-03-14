@@ -1,0 +1,27 @@
+﻿<Window x:Class="SportShop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportShop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="2" Background="#75A640"/>
+        <StackPanel Background='#75A640'>
+            <Image Source="Resources/logo.png" Height="100" Margin="0 0 0 10"></Image>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="Assortiment" Click="Assortiment_Click" FontSize="18" Foreground="White" Background="#349C3D" Margin="5 0 5 0">Ассортимент</Button>
+            <Button x:Name="OpenCards" FontSize="18" Click="OpenCards_Click" Foreground="White" Background="#349C3D" Margin="5 0 5 0">Корзина</Button>
+            <Button x:Name="Auth" FontSize="18" Click="Auth_Click" Foreground="White" Background="#349C3D">Авторизация</Button>
+        </StackPanel>
+    <Frame x:Name="MainFrame" Grid.Row="1"></Frame>
+        
+    </Grid>
+</Window>

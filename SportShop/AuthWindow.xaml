@@ -1,0 +1,32 @@
+﻿<Window x:Class="SportShop.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportShop"
+        mc:Ignorable="d"
+        Title="AuthWindow" Height="450" Width="355">
+    <Grid>
+        <Border HorizontalAlignment="Center" VerticalAlignment="Center" CornerRadius="10" Background="#75A640">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock FontSize="30" HorizontalAlignment='Center' Margin='0 20 0 20' TextAlignment="Center" FontWeight="Bold" Foreground="White" Grid.Row="0" >Авторизация</TextBlock>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row='1'>
+            <TextBlock Foreground="White" Width="100" FontSize="18" TextAlignment="Center" >Логин</TextBlock>
+            <TextBox x:Name="Login" FontSize="18" Width="200" Margin="0 0 5 0"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row='2' Margin="0 5 0 0">
+            <TextBlock Foreground="White" Width="100" FontSize="18" TextAlignment="Center" >Пароль</TextBlock>
+            <TextBox x:Name="Password" FontSize="18" Width="200" Margin="0 0 5 0"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Margin=" 0 5 20 5" Height="30" Orientation="Horizontal" HorizontalAlignment="Right">
+            <TextBlock x:Name="Code" Foreground="White" Margin="0 0 10 0" FontSize="20" TextAlignment="Left">Код:</TextBlock>
+            <TextBox x:Name="CodeInput" FontSize="18" Width="100"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="4" Orientation="Horizontal" Height="30"  HorizontalAlignment="Center">
+            <Button x:Name="Ok" Click="Ok_Click" Background="#349C3D" Margin="0 0 5 0" Foreground="White" Width="80">Подтвердить</Button>
+            <Button x:Name="Gost" Click="Gost_Click" Background="#349C3D" Foreground="White" Width="100"> Гостевой режим </Button>
+        </StackPanel>
+        </StackPanel>
+        </Border>
+    </Grid>
+</Window>
